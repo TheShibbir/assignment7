@@ -1,0 +1,39 @@
+1.What is client-side and server-side in web development, and what is the main difference between the two?
+
+Ans:===>1.In web development client-side is the code and processes that run in the user's web browser, handling tasks such as user interaction and rendering. Server-side refers to the code and processes that run on the web server, handling tasks such as data storage, business logic, and generating responses. The main difference between the two is that client-side code executes on the user's device, while server-side code executes on the web server.
+
+
+
+
+
+2.What is an HTTP request and what are the different types of HTTP requests?
+
+Ans:====>An HTTP request is a message sent from a client (such as a web browser) to a server, requesting a specific action to be performed. There are several types of HTTP requests, including GET (retrieving a resource), POST (submitting data to be processed), PUT (updating a resource), DELETE (deleting a resource), and more. Each type of request serves a different purpose and is used in different scenarios.
+
+
+
+
+
+3.What is JSON and what is it commonly used for in web development?
+
+Ans:===>JSON (JavaScript Object Notation) is a lightweight data interchange format that is easy for humans to read and write, and easy for machines to parse and generate. It is commonly used in web development for transmitting data between a server and a web application. JSON is often used as a format for APIs (Application Programming Interfaces) to exchange data in a structured manner.
+
+
+
+
+
+4.What is a middleware in web development, and give an example of how it can be used.
+
+Ans:===>In web development, middleware refers to a layer of code that sits between the server and the application framework. It intercepts and manipulates requests and responses. An example of middleware is authentication middleware, which can check if a user is logged in and authorized to access certain resources.It can be used to protect routes, verify user credentials, and manage user sessions.
+
+
+
+
+
+
+
+5.What is a controller in web development, and what is its role in the MVC architecture?
+
+Ans:===>In the Model-View-Controller (MVC) architecture, a controller is responsible for handling user input, interacting with the model to retrieve or update data, and coordinating the flow of control in the application. The controller receives input from the user or external sources, processes it, interacts with the model to fetch or modify data, and prepares the data to be rendered by the view or sent as a response. The controller acts as the central coordinator between the model and the view in the MVC pattern.
+
+
